@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades as Laravel;
 use Illuminate\Support\ServiceProvider;
-use Redbean\R;
+use RedBeanPHP\R;
 use Config;
 
 class RedbeanLaravel4ServiceProvider extends ServiceProvider
